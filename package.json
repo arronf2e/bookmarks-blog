@@ -4,6 +4,10 @@
   "version": "0.0.1",
   "description": "Manage your bookmarks as a blog",
   "author": "arronf2e",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arronf2e/bookmarks-blog"
+  }
   "scripts": {
     "dev": "plasmo dev",
     "build": "plasmo build",
